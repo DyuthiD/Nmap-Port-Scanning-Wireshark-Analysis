@@ -1,7 +1,7 @@
 # Nmap-Port-Scanning-Wireshark-Analysis
 
 ## 🎯 Objective
-To perform basic network reconnaissance by scanning the local network for open ports using **Nmap**, and optionally analyze traffic using **Wireshark** to observe packet-level interactions.
+To perform basic network reconnaissance by scanning the local network for open ports using **Nmap**, and analyze traffic using **Wireshark** to observe packet-level interactions.
 
 ---
 ## 🛠 Tools Used
